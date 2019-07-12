@@ -6,5 +6,12 @@
 
 **目录：**
 
-![skipfile=/^(charge:invoice:concepts)$/ nsort dsort
-msort](/indexmenu\>/charge/invoice#1)
+[委托第三方打款证明](certificate.md)
+发票内容和税率
+审核不通过怎么办？
+申请提交后发现信息填错了，怎么办？
+UCloud 发票申请管理规定
+如何开具发票？
+如何添加备注？
+更换发票抬头的处理方法
+发票被拒绝了，该如何处理？
