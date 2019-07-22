@@ -1,6 +1,5 @@
 {{indexmenu_n>0}}
 
 # 发票管理
-**目录：**
 
-{{indexmenu>:charge.invoice#1 | nsort dsort msort}}
+该功能主要用于申请发票、管理发票信息
