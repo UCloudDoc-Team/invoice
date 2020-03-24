@@ -1,6 +1,5 @@
 # 概览
 
-
 * [委托第三方打款证明](/invoice/certificate)
 * [发票内容和税率](/invoice/content)
 * [审核不通过怎么办？](/invoice/refuse)
