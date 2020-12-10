@@ -1,4 +1,3 @@
-<div class="sidebar_title"> 发票管理</div>
 
 * [概览](/invoice/README)
 * [委托第三方打款证明](/invoice/certificate)
