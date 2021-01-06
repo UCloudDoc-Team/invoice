@@ -1,7 +1,7 @@
 # 概览
 
 
-* [委托第三方打款证明](/invoice/certificate)
+* [委托第三方打款证明.](/invoice/certificate)
 * [发票内容和税率](/invoice/content)
 * [审核不通过怎么办？](/invoice/refuse)
 * [申请提交后发现信息填错了，怎么办？](/invoice/modify)
