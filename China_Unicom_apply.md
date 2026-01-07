@@ -17,7 +17,7 @@
 ## Step 1 ： 添加发票信息和接收邮箱
 开票之前，您需前往财务中心控制台》[第三方发票信息管理页](https://console.ucloud.cn/uaccount/invoice/message/thirdpartyinvoice)，管理发票抬头、接收邮箱等信息，开票时直接选择使用。
 
-<img width=90%  alt="image" src="https://github.com/user-attachments/assets/a03cf174-eee9-4d0b-8dac-d6072d125cee" />
+<img width=100%  alt="image" src="https://github.com/user-attachments/assets/a03cf174-eee9-4d0b-8dac-d6072d125cee" />
 
 
 ### 如需开具联通增值税专用发票：
@@ -44,7 +44,9 @@
 > 2. 悬停联通可开发票金额，点击查看明细，可查看联通每月新增开票金额明细记录。
 <img width="795" height="180" alt="image" src="https://github.com/user-attachments/assets/bc0b18ce-813e-4aa6-8ac5-05ab21438eb2" />
 
-当您点击申请开票按钮后，可进入申请中国联通发票页面，核对发票内容。
-所有信息确认无误后，单击确认，则提交申请成功。
+当您点击申请开票按钮后，可进入[申请中国联通发票页](https://console.ucloud.cn/uaccount/invoice/requestThirdParty)，核对发票内容。所有信息确认无误后，单击确认，则提交申请成功。
+
+<img width="1912" height="956" alt="image" src="https://github.com/user-attachments/assets/492fa073-5eba-40cb-81ba-d4bdc98d7a72" />
+
 
 
