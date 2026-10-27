@@ -327,7 +327,7 @@
 示例：
 
 
-**模板下载**:[员工代付申请企业普通发票.docx](https://github.com/UCloudDoc-Team/invoice/releases/download/v1.0.0/employment-certificate.docx)
+**模板下载**:[员工代付申请企业普通发票.docx](https://github.com/UCloudDoc-Team/invoice/releases/download/v1.0.0/employee-proxy-payment-invoice-template.docx)
 
 ***
 
